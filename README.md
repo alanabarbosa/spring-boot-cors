@@ -1,1 +1,1 @@
-# spring-boot-swagger
+# spring-boot-cors
